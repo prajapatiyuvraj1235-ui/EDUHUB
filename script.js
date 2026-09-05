@@ -43,7 +43,7 @@ async function checkout() {
     }
 
     const options = {
-      key: "rzp_live_YOUR_KEY_ID",
+      key: "rzp_live_TYEbKFykHJiglx",
       amount: data.order.amount,
       currency: data.order.currency,
       name: "EDUHUB",
